@@ -33,10 +33,3 @@ class Deck:
 		return self.all_cards.pop()
 
 
-
-
-
-		
-new_deck = Deck()
-first = new_deck.all_cards[0]
-print(first)
